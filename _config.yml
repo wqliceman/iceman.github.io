@@ -57,8 +57,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 7ea5deda4be4abd7154b                            #生成的clientID
-  clientSecret: 2a0c74be4003a8bd9268af2502024830e71d0c9f    #生成的clientSecret
+  clientID: 656cf190670243497b60                            #生成的clientID
+  clientSecret: a1da46c0231e05e8944cfca7915e8ac58261bef9    #生成的clientSecret
   repo: wqliceman.github.io    #仓库名称
   owner: wqliceman    #github用户名
   admin: wqliceman
@@ -95,6 +95,6 @@ service-worker: true
 friends: [
     {
         title: "WY",
-        href: "https://github.com/wqlwqliceman"
+        href: "https://github.com/wqliceman"
     }
 ]
