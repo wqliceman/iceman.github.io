@@ -60,8 +60,8 @@ gitalk:
   clientID: 7ea5deda4be4abd7154b                            #生成的clientID
   clientSecret: 2a0c74be4003a8bd9268af2502024830e71d0c9f    #生成的clientSecret
   repo: wqliceman.github.io    #仓库名称
-  owner: wqlwqliceman    #github用户名
-  admin: wqlwqliceman
+  owner: wqliceman    #github用户名
+  admin: wqliceman
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
