@@ -2,7 +2,7 @@
 title: wqliceman Blog
 SEOTitle: 奔跑阿甘的博客 | wqliceman Blog
 header-img: img/post-bg-desk.jpg
-email: wqlwqliceman@gmail.com
+email: wqliceman@gmail.com
 description: "Every failure is leading towards success."
 keyword: "wqliceman blog, 奔跑阿甘的博客, wqliceman, wql, C++, Python, 健身"
 url: "https://wqliceman.github.io"          # your host, for absolute URL
@@ -12,7 +12,7 @@ github_repo: "https://github.com/wqliceman/wqliceman.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "If I Rest I Rust!!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-iceman.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
