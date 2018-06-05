@@ -1,13 +1,13 @@
 # Site settings
-title: iceman Blog
-SEOTitle: 奔跑阿甘的博客 | iceman Blog
+title: wqliceman Blog
+SEOTitle: 奔跑阿甘的博客 | wqliceman Blog
 header-img: img/post-bg-desk.jpg
-email: wqliceman@gmail.com
+email: wqlwqliceman@gmail.com
 description: "Every failure is leading towards success."
-keyword: "iceman blog, 奔跑阿甘的博客, iceman, wql, C++, Python, 健身"
-url: "https://iceman.github.io"          # your host, for absolute URL
+keyword: "wqliceman blog, 奔跑阿甘的博客, wqliceman, wql, C++, Python, 健身"
+url: "https://wqliceman.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/wqliceman/iceman.github.io.git" # you code repository
+github_repo: "https://github.com/wqliceman/wqliceman.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -52,16 +52,16 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: iceman
+# disqus_username: wqliceman
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 7ea5deda4be4abd7154b                            #生成的clientID
   clientSecret: 2a0c74be4003a8bd9268af2502024830e71d0c9f    #生成的clientSecret
-  repo: iceman.github.io    #仓库名称
-  owner: wqliceman    #github用户名
-  admin: wqliceman
+  repo: wqliceman.github.io    #仓库名称
+  owner: wqlwqliceman    #github用户名
+  admin: wqlwqliceman
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -95,6 +95,6 @@ service-worker: true
 friends: [
     {
         title: "WY",
-        href: "https://github.com/wqliceman"
+        href: "https://github.com/wqlwqliceman"
     }
 ]
